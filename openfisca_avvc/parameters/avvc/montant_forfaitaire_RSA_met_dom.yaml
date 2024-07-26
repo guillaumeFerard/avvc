@@ -1,0 +1,8 @@
+description: montant forfaitaire RSA en metropole et dans les dom sauf mayotte
+metadata:
+  unit: currency-EUR
+values:
+  2023-04-01:
+    value: 607.75
+  2024-04-01:
+    value : 635.71

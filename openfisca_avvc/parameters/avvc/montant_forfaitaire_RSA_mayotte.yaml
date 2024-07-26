@@ -1,0 +1,9 @@
+description: montant forfaitaire RSA pour mayotte
+metadata:
+  unit: currency-EUR
+values:
+  2023-04-01:
+    value: 303.88
+  2024-04-01:
+    value : 317.86 
+

@@ -1,0 +1,11 @@
+description: revenu smic net mensuel 35 heures en métropole ou dans les dom hors mayotte
+metadata:
+  unit: currency-EUR
+values:
+  2023-01-01:
+    value: 1398.69
+  2024-01-01:
+    value : 1353.06
+    
+  
+

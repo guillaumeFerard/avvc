@@ -1,0 +1,20 @@
+- name: cas 1
+  absolute_error_margin: 2
+  period: 2024-05
+  input:
+    household:
+      parents: [hermione]
+      nombre_enfant_charge:
+        2024-05: 1
+      code_organisme:
+        2024-05: 141
+    persons:
+      hermione:
+        revenu_tns:
+          2024-05: 3147.05
+  output:
+    household:
+      type_aide:
+        2024-05: "pret"
+      montant_avvc_majore:
+        2024-05: 953.57

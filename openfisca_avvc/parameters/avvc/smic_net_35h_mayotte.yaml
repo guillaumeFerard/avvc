@@ -1,0 +1,9 @@
+description: revenu smic net mensuel 35 heures à mayotte
+metadata:
+  unit: currency-EUR
+values:
+  # This parameter is only defined since the 1st of Dec 2015.
+  2023-01-01:
+    value: 1169.77
+  2024-01-01:
+    value: 1203.34
